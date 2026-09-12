@@ -1,5 +1,5 @@
 # caret-template
-2017 - R package caret template with Iris dataset
+R package caret template with Iris dataset
 
 Instructions for use:
 
